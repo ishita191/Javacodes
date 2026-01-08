@@ -1,6 +1,5 @@
 public class ArraryEX1 {
 public static void main(String[] args) {
-//	int []c;
 //	int a[]=new int[]{8,3,10,5};
 //	int b[];
 	int c[];
@@ -23,3 +22,4 @@ public static void main(String[] args) {
 
 }
 }
+
