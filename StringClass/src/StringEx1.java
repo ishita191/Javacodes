@@ -2,8 +2,8 @@ public class StringEx1 {
 public static void main(String[] args) {
 	String s = "Ishita";
 	String s1= new String("Panchal");
-	String s2= "coder";
-	String s3= new String ("Eternal");
+	String s2= "Ishita";
+	String s3= new String("Panchal");
 	System.out.println(s);
 	System.out.println(s1);
 	System.out.println(s==s1);
